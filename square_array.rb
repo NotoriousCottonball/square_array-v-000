@@ -3,3 +3,5 @@ def square_array(array)
   array.each {|i| squares << i*i}
   squares
 end
+
+def 
