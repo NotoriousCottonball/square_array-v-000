@@ -1,4 +1,4 @@
 def square_array(array)
   squares = []
-  array.each {|i| 
+  array.each {|i| squares >> i
 end
